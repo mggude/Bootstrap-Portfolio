@@ -240,3 +240,21 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+@media (min-width: 640px) {
+  body {
+      width: 100%;
+  }
+}
+/* md */
+@media (min-width: 768px) {
+  body {
+      width: 100%;
+  }
+}
+/* lg */
+@media (min-width: 980px) {
+  body {
+      width: 100%;
+  }
+}
